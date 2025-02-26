@@ -1,7 +1,7 @@
 Landing Page - Practice Project
 
 Overview :
-_- A simple landing page created for practice using HTML and CSS.
+- A simple landing page created for practice using HTML and CSS.
 
 Features :
 - Navigation bar with links
